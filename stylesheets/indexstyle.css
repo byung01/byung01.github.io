@@ -7,8 +7,6 @@ div {
 
 h1 {
         font-family: Helvetica;
-        border-style: dashed; /* Borders around a block of text */
-        margin-left: 10%; /* Takes away 10 percent of the margin on the left */
 }
 
 p {
