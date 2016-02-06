@@ -1,23 +1,23 @@
 /* A simple stylesheet */
 
 h1 {
-        font-family: Helvetica;
-        color: gray;
-        text-align: center;
+    font-family: Helvetica;
+    color: gray;
+    text-align: center;
 }
 
 p {
-        font-size: 18px;
-        font-family: Georgia;
-        text-align: center;
+    font-size: 18px;
+    font-family: Georgia;
+    text-align: center;
 }
 
 .imagesize img{ /* class for sizing the image */
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        height: 350px;
-        width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 500px;
 }
 
 
@@ -26,11 +26,11 @@ p {
 
 
 #header { /* id */
-        text-align: center;
+    text-align: center;
 }
 
 .peeps { /* class */
-        font-family: Helvetica;
+    font-family: Helvetica;
 }
 
 /* 
