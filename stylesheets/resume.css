@@ -1,0 +1,17 @@
+/* A stylesheet for resume.html */
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    font-family: Florence, cursive;
+    text-align: center;
+}
+
+p {
+    color: #808080;
+    text-align: justify;
+    font-size: 14px;
+}
