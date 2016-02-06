@@ -1,0 +1,42 @@
+/* A simple stylesheet */
+
+div {
+        width: 500px;
+        height: 400px;
+}
+
+h1 {
+        font-family: Helvetica;
+        border-style: dashed; /* Borders around a block of text */
+        margin-left: 10%; /* Takes away 10 percent of the margin on the left */
+}
+
+p {
+        font-size: 18px;
+        font-family: Georgia;
+        color: white;
+}
+
+#header { /* id */
+        text-align: center;
+}
+
+.peeps { /* class */
+        font-family: Helvetica;
+}
+
+/* 
+ * <div id="header"> </div> 
+ * <span class="whatever"> </span>
+ * When that syntax is used, whatever is in between the tags, will do the above
+ */
+
+
+
+/* id attributes should only be used once */
+/* class attributes can be used multiple times */
+
+/* Lines 3 - 6 => a single rule */
+/* h1 is better known as a "selector" */
+/* text-align: center; is better known as a "declaration" */
+/* A declaration is a key-value pair */
