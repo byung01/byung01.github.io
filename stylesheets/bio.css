@@ -1,0 +1,10 @@
+/* A stylesheet for bio.html */
+
+h1 {
+    font-family: Florence, cursive;
+}
+
+p {
+    color: gray;
+    text-align: justify;
+}
