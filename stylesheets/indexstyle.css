@@ -3,16 +3,19 @@
 h1 {
         font-family: Helvetica;
         color: gray;
+        text-align: center;
 }
 
 p {
         font-size: 18px;
         font-family: Georgia;
+        text-align: center;
 }
 
-.imagesize img{
+.imagesize img{ /* class for sizing the image */
         height: 350px;
         width: 500px;
+        text-align: center;
 }
 
 
