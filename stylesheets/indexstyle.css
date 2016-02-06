@@ -1,14 +1,14 @@
 /* A simple stylesheet */
 
 h1 {
-        font-family: Helvetica;
+        font-family: Courier;
         border: dashed;
         text-align: center;
 }
 
 p {
         font-size: 18px;
-        font-family: Courier;
+        font-family: Georgia;
 }
 
 .imagesize img{
