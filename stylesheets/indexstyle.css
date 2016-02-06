@@ -12,6 +12,10 @@ p {
     text-align: center;
 }
 
+a {
+    color: #3399ff;
+}
+
 .imagesize img{ /* class for sizing the image */
     display: block;
     margin-left: auto;
