@@ -13,6 +13,7 @@ p {
 }
 
 .imagesize img{ /* class for sizing the image */
+        display: block;
         margin-left: auto;
         margin-right: auto;
         height: 350px;
