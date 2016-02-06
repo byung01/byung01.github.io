@@ -23,32 +23,3 @@ a {
     height: 350px;
     width: 500px;
 }
-
-
-
-
-
-
-#header { /* id */
-    text-align: center;
-}
-
-.peeps { /* class */
-    font-family: Helvetica;
-}
-
-/* 
- * <div id="header"> </div> 
- * <span class="whatever"> </span>
- * When that syntax is used, whatever is in between the tags, will do the above
- */
-
-
-
-/* id attributes should only be used once */
-/* class attributes can be used multiple times */
-
-/* Lines 3 - 6 => a single rule */
-/* h1 is better known as a "selector" */
-/* text-align: center; is better known as a "declaration" */
-/* A declaration is a key-value pair */
