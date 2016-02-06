@@ -1,7 +1,7 @@
 /* A simple stylesheet */
 
 h1 {
-        font-family: Courier;
+        font-family: Helvetica;
         border: dashed;
         text-align: center;
 }
