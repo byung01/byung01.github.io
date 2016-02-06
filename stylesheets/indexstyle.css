@@ -10,9 +10,9 @@ p {
         color: white;
 }
 
-.imagesize {
-        width: 500px;
-        height: 400px;
+.imagesize img{
+        height: 400vh;
+        width: auto;
 }
 
 #header { /* id */
